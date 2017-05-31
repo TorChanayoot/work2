@@ -1,0 +1,43 @@
+<div class="bar bar-header bar-balanced">
+  <h1 class="title">Header</h1>
+</div>
+<br>
+<br>
+
+<a ui-sref="login"><button class="button icon-left ion-home">Home</button></a>
+
+<br><div class="list">
+
+    <a class="item item-thumbnail-left" href="#">
+      <img src="img/4.jpg">
+      <h2>Mouse</h2>
+      <p>Razer Mouse</p>
+
+    <a class="item item-thumbnail-left" href="#">
+      <img src="img/5.jpg">
+      <h2>KEYBOARD</h2>
+      <p>ASUS CERBERUS</p>
+	 
+	  
+    <a class="item item-thumbnail-left" href="#">
+      <img src="img/6.jpg">
+      <h2>Headphone</h2>
+      <p>Headphone Razer </p>
+
+	   <a class="item item-thumbnail-left" href="#">
+      <img src="img/7.jpg">
+      <h2>Monitor</h2>
+      <p>Monitor ASUS</p>
+	   
+	   <a class="item item-thumbnail-left" href="#">
+      <img src="img/8.jpg">
+      <h2>Case</h2>
+      <p>Case ASUS</p>
+    </a>
+<br>
+<br>
+<br>
+<div class="bar bar-footer bar-balanced">
+  <div class="title">Footer</div>
+
+</div>
